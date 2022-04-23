@@ -4,12 +4,6 @@
   METINA (Metina) is an open source text editor created as a more advanced alternative to the usual notepad, developed in Python using the framework [PyQt5](https://pypi.org/project/PyQt5/). 
 At the moment, the program is only available in Russian, maybe later I will add localization.
 
-  ## Table of Contents
-
-  - [Opportunities](#Opportunities)
-  - [Install](#Install)
-  - [Social links](#Social links)
-
 ## Opportunities
 
 • Full Rich Edit Files Support;
