@@ -1,4 +1,4 @@
-### METINA
+# METINA
 ![METNHA](https://github.com/XO3RNH/METNHA/blob/master/logoBg.png)
 
   METINA (Metina) is an open source text editor created as a more advanced alternative to the usual notepad, developed in Python using the framework [PyQt5](https://pypi.org/project/PyQt5/). 
