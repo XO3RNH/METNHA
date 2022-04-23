@@ -16,7 +16,7 @@ At the moment, the program is only available in Russian, maybe later I will add 
 
 • Quick search/replacement of text lines.
 ```
-## Install
+## Installation
 ```
 git clone https://github.com/XO3RNH/METNHA.git
 
