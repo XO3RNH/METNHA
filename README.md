@@ -5,7 +5,7 @@
 At the moment, the program is only available in Russian, maybe later I will add localization.
 
 ## Opportunities
-
+```
 • Full Rich Edit Files Support;
 
 • Advanced text selection and modification capabilities;
@@ -15,7 +15,7 @@ At the moment, the program is only available in Russian, maybe later I will add 
 • Presence of a status bar;
 
 • Quick search/replacement of text lines.
-
+```
 ## Install
 ```
 git clone https://github.com/XO3RNH/METNHA.git
