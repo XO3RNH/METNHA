@@ -10,7 +10,7 @@ At the moment, the program is only available in Russian, maybe later I will add 
   - [Install](#Install)
   - [Social links](#Social links)
 
-##Opportunities
+## Opportunities
 
 • Full Rich Edit Files Support;
 
@@ -33,9 +33,10 @@ pip3 install -r requirements.txt
 python3 src/main.py
 ```
 
-##Social links
+## Social links
 
 • Github: https://github.com/XO3RNH
+
 • Vkontakte: https://vk.com/chelovek_iz_sibiri
 
 
